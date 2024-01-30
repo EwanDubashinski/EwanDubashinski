@@ -22,7 +22,7 @@ Now calling Greece home, but who knows, the journey continues, and maybe it's no
 *   ✉️  You can contact me at dubashinskii at outlook dot com
 *   🚀  I'm currently working in [Deutsche Telekom](http://telekom.com/)
 *   🧠  I'm learning Designing Data-Intensive Applications
-*   ⚡  Considering new opportunities in Portugal and US
+*   ⚡  Considering new opportunities in Portugal and US (or full-remote)
 
 ### Skills
 
